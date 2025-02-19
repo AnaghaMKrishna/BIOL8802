@@ -1,2 +1,2 @@
-# biol8802
+# BIOL8802
 Repo for BIOL8802
